@@ -7,6 +7,7 @@ import java.util.ArrayList;
  * The App class is the main entry point into our code.
  * This is where any queries or data manipulation occurs.
  *
+ *
  * @author  Kristiyan Tanev, Lee Shaw, Amy Harvey, Lewis Watson
  * @version 1.0
  * @since   2021-02-03
