@@ -29,7 +29,7 @@ public class App
             a.connect(args[0]);
         }
 
-        // Extract country information
+        // Extract country information.
         // ArrayList<Country> country = a.getCountry();
 
         //print country information
